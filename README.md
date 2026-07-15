@@ -60,3 +60,9 @@ OrganizeYourLife/
 - **Backend**: Node.js + Express
 - **Banco de Dados**: PostgreSQL 16
 - **Infraestrutura**: Docker Compose
+- 
+<img width="1901" height="964" alt="image" src="https://github.com/user-attachments/assets/a5bd6d57-8ca3-42b7-8259-62fb38e384f6" />
+<img width="1901" height="964" alt="image" src="https://github.com/user-attachments/assets/d20a9169-613a-40ec-9769-1444d5eb9e35" />
+<img width="1901" height="964" alt="image" src="https://github.com/user-attachments/assets/6d9dd95f-b7de-4174-8bfa-0a2204a8e8c2" />
+
+
